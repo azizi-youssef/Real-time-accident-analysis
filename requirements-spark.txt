@@ -1,0 +1,14 @@
+# Spark
+pyspark>=3.4.1
+
+# Deep Learning
+tensorflow>=2.12.0
+keras>=2.12.0
+scikit-learn>=1.2.2
+numpy>=1.23.5
+
+# Database
+cassandra-driver>=3.25.0
+
+# Utilities
+python-dotenv>=1.0.0 
